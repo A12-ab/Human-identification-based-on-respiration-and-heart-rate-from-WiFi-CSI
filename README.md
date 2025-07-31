@@ -49,9 +49,9 @@ This project focuses on **non-intrusive human identification** using **WiFi Chan
 ---
 
 ##📌 Applications
-. Smart home security and access control
-. Healthcare monitoring and patient identification
-. Elderly care centers and fall detection systems
+1. Smart home security and access control
+2. Healthcare monitoring and patient identification
+3. Elderly care centers and fall detection systems
 
 ---
 
