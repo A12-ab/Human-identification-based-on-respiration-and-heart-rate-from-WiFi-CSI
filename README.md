@@ -35,7 +35,7 @@ This project focuses on **non-intrusive human identification** using **WiFi Chan
 
 ---
 
-##▶️ Usage
+▶️## Usage
 1. Run grand_final_preprocessing.ipynb for data preprocessing.
 
 2. Run grand_final_feature_extraction.ipynb for feature extraction.
