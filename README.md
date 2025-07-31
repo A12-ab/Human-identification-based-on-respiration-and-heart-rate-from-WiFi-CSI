@@ -35,18 +35,6 @@ This project focuses on **non-intrusive human identification** using **WiFi Chan
 
 ---
 
-## 🛠️ Requirements
-- Python 3.8+  
-- TensorFlow / Keras  
-- NumPy  
-- Pandas  
-- Scikit-learn  
-- Matplotlib / Seaborn  
-
-Install dependencies:
-```bash
-pip install -r requirements.txt
-
 ##▶️ Usage
 1. Run grand_final_preprocessing.ipynb for data preprocessing.
 
@@ -64,6 +52,20 @@ pip install -r requirements.txt
 . Healthcare monitoring and patient identification
 
 . Elderly care centers and fall detection systems
+
+## 🛠️ Requirements
+- Python 3.8+  
+- TensorFlow / Keras  
+- NumPy  
+- Pandas  
+- Scikit-learn  
+- Matplotlib / Seaborn  
+
+Install dependencies:
+```bash
+pip install -r requirements.txt
+
+
 
 ##📜 License
 This project is licensed under the MIT License.
