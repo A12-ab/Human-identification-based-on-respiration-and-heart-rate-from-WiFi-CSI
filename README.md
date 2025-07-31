@@ -46,3 +46,24 @@ This project focuses on **non-intrusive human identification** using **WiFi Chan
 Install dependencies:
 ```bash
 pip install -r requirements.txt
+
+##▶️ Usage
+1. Run grand_final_preprocessing.ipynb for data preprocessing.
+
+2. Run grand_final_feature_extraction.ipynb for feature extraction.
+
+3. Train ML models with grand_final_ml_early.ipynb.
+
+4. Train DL models with grand_final_dl_early.ipynb.
+
+5. Evaluate results using generated confusion matrix and performance metrics.
+
+##📌 Applications
+. Smart home security and access control
+
+. Healthcare monitoring and patient identification
+
+. Elderly care centers and fall detection systems
+
+##📜 License
+This project is licensed under the MIT License.
